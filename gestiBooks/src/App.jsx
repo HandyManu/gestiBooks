@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Bienvenida from "./pages/Bienvenida";
 import Home from "./pages/Home";
 import NotFound from "./pages/pageNotFound";
+import Books from "./pages/books";
 //import Users from "./pages/Users";
 import { Toaster } from "react-hot-toast";
 
@@ -18,6 +19,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Bienvenida />} />
           <Route path="/home" element={<Home />} />
+          <Route path="/books" element={<Books />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
