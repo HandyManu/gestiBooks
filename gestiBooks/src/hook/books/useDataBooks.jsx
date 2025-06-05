@@ -100,10 +100,10 @@ const useDataBooks = (methods) => {
       const book = await getBookById(id);
       if (book) {
         reset({
-          autor: book?.autor,
-          libro: book?.libro,
-          estado: book?.estado,
-          genero: book?.genero,
+          Autor: book?.Autor,
+          Libro: book?.Libro,
+          Estado: book?.Estado,
+          Genero: book?.Genero,
         });
       }
     }
