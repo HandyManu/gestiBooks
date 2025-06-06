@@ -1,6 +1,4 @@
-¡Por supuesto! Aquí tienes un archivo README para **Gestibooks**, tu aplicación de gestión de libros:
 
-```md
 # Gestibooks 📚
 
 Gestibooks es una aplicación **Book Tracker** diseñada para ayudar a los lectores apasionados a organizar y gestionar sus hábitos de lectura. Con esta herramienta, los usuarios podrán llevar un registro detallado de los libros que han leído, están leyendo o planean leer.
@@ -46,9 +44,4 @@ Gestibooks nace de la iniciativa de **Valeria**, una lectora entusiasta que se h
 
 ## 📬 Contacto
 
-Si tienes preguntas, sugerencias o mejoras, ¡tu colaboración es bienvenida! 🎉
-
----
-
-¡Espero que este README sea justo lo que necesitas! ¿Quieres agregar algún detalle extra?
 ```
